@@ -5,3 +5,4 @@ contextily
 matplotlib
 seaborn
 tqdm
+scikit-learn
