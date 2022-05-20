@@ -17,3 +17,4 @@ A Python Jupyter notebook to train a model to predict hospital discharges in NZ
 - District Health Boards (statsnzdistrict-health-board-2015-FGDB.zip): https://datafinder.stats.govt.nz/layer/87883-district-health-board-2015/
 - Territorial Authority Local Board (statsnzterritorial-authority-local-board-2021-clipped-generalised-FGDB.zip): https://datafinder.stats.govt.nz/layer/105136-territorial-authority-local-board-2021-clipped-generalised/
 - Subnational Population Projections (subnational-population-projections-2018base-2048.xlsx): https://www.stats.govt.nz/information-releases/subnational-population-projections-2018base2048
+- Household income data for 2013 & 2018 by DHB (total_household_income_2013_2018_census_by_DHB.xlsx): https://nzdotstat.stats.govt.nz/wbos/Index.aspx?DataSetCode=TABLECODE8422
