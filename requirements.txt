@@ -9,3 +9,4 @@ scikit-learn
 git+https://github.com/UoA-eResearch/nodebook.git
 unidecode
 scipy
+statsmodels
